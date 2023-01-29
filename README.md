@@ -1,2 +1,1 @@
-static files & template from:
-https://github.com/tomitokko/django-social-media-template
+source: https://www.youtube.com/watch?v=xSUm6iMtREA&t=5591s
